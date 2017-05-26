@@ -1,0 +1,8 @@
+# Lines that are missing from the en/SYSTEM folder. Please
+# remember to take pauses inbetween lines, but feel free
+# to improvise and have a good time with it.
+#
+# If you make a mistake, take a pause, and record it again.
+low battery
+normal mode on
+

@@ -1,0 +1,34 @@
+# Lines that are missing from the en/SYSTEM folder. Please
+# remember to take pauses inbetween lines, but feel free
+# to improvise and have a good time with it.
+#
+# If you make a mistake, take a pause, and record it again.
+knot
+knots
+foot per second
+feet per second
+degree celsius
+degrees celsius
+degree fahrenheit
+degrees fahrenheit
+milliwatt
+milliwatts
+radian
+radians
+milliliter
+milliliters
+fluid ounce
+fluid ounces
+minimum trim reached
+timer 1 elapsed
+timer 2 elapsed
+timer 3 elapsed
+trainer signal lost
+trainer signal recovered
+sensor lost
+sensor recovered
+servo overload
+servo recovered
+power overload
+power recovered
+
