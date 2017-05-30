@@ -1,10 +1,8 @@
-# Lines that are missing from the en/SYSTEM folder. Please
-# remember to take pauses inbetween lines, but feel free
+# These are bonus lines from betaflight settings.
+# Remember to take pauses inbetween lines, but feel free
 # to improvise and have a good time with it.
 #
 # If you make a mistake, take a pause, and record it again.
-low battery
-normal mode on
 armed
 disarmed
 air mode on
@@ -16,14 +14,16 @@ flight mode: horizon
 flight mode: acro
 headfree on
 headfree off
+camera angle mix on
+camera angle mix off
 failsafe activated
-failsafe deactivated (Good luck, buddy)
+failsafe deactivated
 beeper activated
 beeper off
 blackbox recording
 blackbox off
-angle mix on
-angle mix off
 on screen display activated
 on screen display deactivated
+angle mix on
+angle mix off
 
