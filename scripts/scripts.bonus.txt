@@ -26,4 +26,10 @@ on screen display activated
 on screen display deactivated
 angle mix on
 angle mix off
+High speed
+Mid speed
+Low speed
+High rates
+Mid rates
+Low Rates
 
