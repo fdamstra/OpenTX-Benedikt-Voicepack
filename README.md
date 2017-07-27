@@ -20,6 +20,10 @@ Announcement from Benedikt is here: https://community.micro-motor-warehouse.com/
 But real source seems to be this reddit thread: https://www.reddit.com/r/Multicopter/comments/3os5je/introducing_the_mia_taranis_voicepack_227_tracks/
 The idea seems to have come from 'johnslims', and 'lazd' did the work.
 
+The thread discussing an updated voicepack is here: https://community.micro-motor-warehouse.com/t/is-there-an-updated-benedikt-voice-pack-for-taranis/2693. 
+And lastly, there is a "behind the scenes" YouTube video of Benedikt recording the new sound
+files here: https://www.youtube.com/watch?v=o-aNwZORNYA
+
 ## The Problem
 This voicepack was made for OpenTX 1.x. They changed the filenames in OpenTX 2.1, though it 
 mostly works. And 2.2 is about to come out with some more changes. It still mostly works, 
@@ -40,9 +44,8 @@ I'd also like to add some sounds. I feel like we're missing some phrases that mi
 there is a sound in particular you need, please post an issue ASAP.
 
 ### Instructions
-If you start with the official SD image, and copy the "Benedikt Taranis Voicepack",
-overwriting files when possible, you'll get most everything. You'll find some strange behavior, 
-but it will almost all work.
+Copy the files from the ["Benedikt Taranis Voicepack" folder (`SOUNDS/en`)](https://github.com/fdamstra/OpenTX-Benedikt-Voicepack/tree/master/Benedikt%20Taranis%20Voicepack)
+onto your SD card, overwriting files existing files.
 
 ### Tracking
 The table below is tracking current status. A "Y" under "exists" means the file was there without
