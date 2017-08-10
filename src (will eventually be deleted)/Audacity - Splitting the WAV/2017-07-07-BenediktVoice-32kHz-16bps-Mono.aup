@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="2017-07-07-BenediktVoice-32kHz-16bps-Mono_data" version="1.3.0" audacityversion="2.1.3" sel0="173.8013605442" sel1="179.2464399093" vpos="0" h="176.6690249433" zoom="344.5312500000" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="2017-07-07-BenediktVoice-32kHz-16bps-Mono" channel="2" linked="0" mute="0" solo="1" height="457" minimized="0" isSelected="1" rate="32000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="5771733">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000875.au" len="304700" min="-0.538208" max="0.573792" rms="0.039398"/>
+				</waveblock>
+				<waveblock start="304700">
+					<simpleblockfile filename="e0000ec4.au" len="262900" min="-0.558746" max="0.57132" rms="0.03798"/>
+				</waveblock>
+				<waveblock start="567600">
+					<simpleblockfile filename="e0000272.au" len="305800" min="-0.4375" max="0.593292" rms="0.023078"/>
+				</waveblock>
+				<waveblock start="873400">
+					<simpleblockfile filename="e00006af.au" len="305800" min="-0.669586" max="0.660187" rms="0.057196"/>
+				</waveblock>
+				<waveblock start="1179200">
+					<simpleblockfile filename="e0000def.au" len="305800" min="-0.720062" max="0.674774" rms="0.056263"/>
+				</waveblock>
+				<waveblock start="1485000">
+					<simpleblockfile filename="e00003e1.au" len="305800" min="-0.658051" max="0.876801" rms="0.050246"/>
+				</waveblock>
+				<waveblock start="1790800">
+					<simpleblockfile filename="e000058c.au" len="305800" min="-0.656769" max="0.85321" rms="0.064353"/>
+				</waveblock>
+				<waveblock start="2096600">
+					<simpleblockfile filename="e0000cb5.au" len="305800" min="-0.786316" max="0.710541" rms="0.058838"/>
+				</waveblock>
+				<waveblock start="2402400">
+					<simpleblockfile filename="e00004f3.au" len="305800" min="-0.728119" max="0.757294" rms="0.058662"/>
+				</waveblock>
+				<waveblock start="2708200">
+					<simpleblockfile filename="e0000605.au" len="305800" min="-0.739471" max="0.745911" rms="0.059337"/>
+				</waveblock>
+				<waveblock start="3014000">
+					<simpleblockfile filename="e0000d9d.au" len="305800" min="-0.646729" max="0.70343" rms="0.033829"/>
+				</waveblock>
+				<waveblock start="3319800">
+					<simpleblockfile filename="e000029d.au" len="305800" min="-0.554932" max="0.698486" rms="0.038621"/>
+				</waveblock>
+				<waveblock start="3625600">
+					<simpleblockfile filename="e0000e5c.au" len="305800" min="-0.488251" max="0.58017" rms="0.046002"/>
+				</waveblock>
+				<waveblock start="3931400">
+					<simpleblockfile filename="e0000f70.au" len="305800" min="-0.681915" max="0.637238" rms="0.041257"/>
+				</waveblock>
+				<waveblock start="4237200">
+					<simpleblockfile filename="e000024a.au" len="305800" min="-0.7453" max="0.696472" rms="0.049584"/>
+				</waveblock>
+				<waveblock start="4543000">
+					<simpleblockfile filename="e0000ed3.au" len="305800" min="-0.6763" max="0.693878" rms="0.055766"/>
+				</waveblock>
+				<waveblock start="4848800">
+					<simpleblockfile filename="e00009a4.au" len="305800" min="-0.688049" max="0.853943" rms="0.065154"/>
+				</waveblock>
+				<waveblock start="5154600">
+					<simpleblockfile filename="e000077a.au" len="262900" min="-0.704773" max="0.741333" rms="0.062789"/>
+				</waveblock>
+				<waveblock start="5417500">
+					<simpleblockfile filename="e00008f0.au" len="305800" min="-0.442108" max="0.558868" rms="0.020864"/>
+				</waveblock>
+				<waveblock start="5723300">
+					<simpleblockfile filename="e0000236.au" len="48433" min="-0.012634" max="0.012787" rms="0.001296"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="61" height="73" minimized="0" isSelected="1">
+		<label t="0.0000000000" t1="0.0000000000" title="Introduction"/>
+		<label t="23.3941043084" t1="24.1255328798" title="So here we go"/>
+		<label t="27.7362358277" t1="28.9668934240" title="Armed"/>
+		<label t="29.4080725624" t1="30.7432199546" title="Disarmed"/>
+		<label t="31.2830839002" t1="32.6965986395" title="Airmode On"/>
+		<label t="33.6224943311" t1="35.3930158730" title="Airmode Off"/>
+		<label t="35.9212698413" t1="38.1968253968" title="Antigravity On"/>
+		<label t="39.0182312925" t1="41.3170068027" title="Antigravity Off"/>
+		<label t="41.7523809524" t1="43.6128798186" title="Flight Mode - Angle"/>
+		<label t="44.3994557823" t1="46.6575963719" title="Flight Mode - Horizon"/>
+		<label t="47.6270294785" t1="49.7864852608" title="Flight Mode - Acro"/>
+		<label t="50.7297959184" t1="52.4858049887" title="Headfree On"/>
+		<label t="53.2897959184" t1="55.0545124717" title="Headfree Off"/>
+		<label t="55.6756462585" t1="57.9773242630" title="Camera Angle Mix - On"/>
+		<label t="58.8219501134" t1="61.3355102041" title="Camera Angle Mix - Off"/>
+		<label t="61.9131065760" t1="64.1102947846" title="Failsafe Activated"/>
+		<label t="64.8707482993" t1="67.1869387755" title="Failsafe Deactivated"/>
+		<label t="67.9241723356" t1="69.6743764172" title="Beeper Activated"/>
+		<label t="70.4406349206" t1="71.8512471655" title="Beeper Off"/>
+		<label t="72.5913832200" t1="74.7102040816" title="Blackbox Recording"/>
+		<label t="75.6419047619" t1="77.4472562358" title="Blackbox Off"/>
+		<label t="78.3151020408" t1="80.5848526077" title="OSD Activated"/>
+		<label t="81.2611337868" t1="83.9401360544" title="OSD Deactivated"/>
+		<label t="84.6512471655" t1="86.2940589569" title="Angle Mix On"/>
+		<label t="87.2983219955" t1="89.1588208617" title="Angle Mix Off"/>
+		<label t="89.7712471655" t1="90.8045351474" title="High Speed"/>
+		<label t="91.2166893424" t1="92.1048526077" title="Mid Speed"/>
+		<label t="92.5547392290" t1="93.9885714286" title="Low Speed"/>
+		<label t="94.5748752834" t1="95.5414058957" title="High Rates"/>
+		<label t="95.8606802721" t1="96.8126984127" title="Mid Rates"/>
+		<label t="97.1871201814" t1="99.0331065760" title="Low Rates"/>
+		<label t="105.7988208617" t1="106.3735147392" title="Knot"/>
+		<label t="107.5780498866" t1="108.3297959184" title="Knots"/>
+		<label t="109.1657142857" t1="110.7562811791" title="Foot per Second"/>
+		<label t="111.2903401361" t1="112.8983219955" title="Feet per Second"/>
+		<label t="113.4701133787" t1="114.9329705215" title="Degree Celsius"/>
+		<label t="115.4147845805" t1="117.1678911565" title="Degrees Celsius"/>
+		<label t="117.8993197279" t1="119.5189115646" title="Degree Fahrenheit"/>
+		<label t="120.1661678005" t1="122.0092517007" title="Degrees Fahrenheit"/>
+		<label t="122.5868480726" t1="123.2602267574" title="Milliwatt"/>
+		<label t="124.0845351474" t1="125.0626757370" title="Milliwatts"/>
+		<label t="125.7882993197" t1="126.5342403628" title="Radian"/>
+		<label t="127.4630385488" t1="128.5456689342" title="Radians"/>
+		<label t="129.4251247166" t1="130.2465306122" title="Milliliter"/>
+		<label t="131.0737414966" t1="132.0547845805" title="Milliliters"/>
+		<label t="132.8732879819" t1="134.2374603175" title="Fluid Ounce"/>
+		<label t="134.9485714286" t1="136.3011337868" title="Fluid Ounces"/>
+		<label t="137.1602721088" t1="138.8408163265" title="Minimum Trim Reached"/>
+		<label t="139.7667120181" t1="141.5053061224" title="Timer 1 Elapsed"/>
+		<label t="142.1380498866" t1="144.0682086168" title="Timer 2 Elapsed"/>
+		<label t="144.6429024943" t1="146.6543310658" title="Timer 3 Elapsed"/>
+		<label t="147.2058049887" t1="149.1243537415" title="Trainer Signal Lost"/>
+		<label t="149.8499773243" t1="152.0848979592" title="Trainer Signal Recovered"/>
+		<label t="153.0195011338" t1="154.7551927438" title="Sensor Lost"/>
+		<label t="155.2921541950" t1="157.5009523810" title="Sensor Recovered"/>
+		<label t="158.1424036281" t1="160.1102947846" title="Servo Overload"/>
+		<label t="160.5282539683" t1="162.5832199546" title="Servo Recovered"/>
+		<label t="163.0592290249" t1="164.8645804989" title="Power Overload"/>
+		<label t="165.1809523810" t1="167.6654875283" title="Power Recovered"/>
+		<label t="170.0861678005" t1="170.4257596372" title="Thats It"/>
+		<label t="173.8013605442" t1="179.2464399093" title="See You Later"/>
+	</labeltrack>
+</project>
