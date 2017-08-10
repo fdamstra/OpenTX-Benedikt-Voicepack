@@ -172,12 +172,12 @@ needing to be renamed. If a different string is there, it means the file had to 
 | SOUNDS/en/SYSTEM | amp1.wav     | amps                        |0118.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | mamp0.wav    | milliamp                    |0131.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | mamp1.wav    | milliamps                   |0132.wav|          |         |    |       |
-| SOUNDS/en/SYSTEM | knot0.wav    | knot                        |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | knot1.wav    | knots                       |        |          |         |    |       |
+| SOUNDS/en/SYSTEM | knot0.wav    | knot                        |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | knot1.wav    | knots                       |        |     Y    |         |    |       |
 | SOUNDS/en/SYSTEM | mps0.wav     | meter per second            |0119.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | mps1.wav     | meters per second           |0120.wav|          |         |    |       |
-| SOUNDS/en/SYSTEM | fps0.wav     | foot per second             |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | fps1.wav     | feet per second             |        |          |         |    |       |
+| SOUNDS/en/SYSTEM | fps0.wav     | foot per second             |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | fps1.wav     | feet per second             |        |     Y    |         |    |       |
 | SOUNDS/en/SYSTEM | kph0.wav     | kilometer per hour          |0123.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | kph1.wav     | kilometers per hour         |0124.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | mph0.wav     | mile per hour               |0141.wav|          |         |    |       |
@@ -186,18 +186,18 @@ needing to be renamed. If a different string is there, it means the file had to 
 | SOUNDS/en/SYSTEM | meter1.wav   | meters                      |0126.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | foot0.wav    | foot                        |0139.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | foot1.wav    | feet                        |0140.wav|          |         |    |       |
-| SOUNDS/en/SYSTEM | celsius0.wav | degree celsius              |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | celsius1.wav | degrees celsius             |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | fahr0.wav    | degree fahrenheit           |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | fahr1.wav    | degrees fahrenheit          |        |          |         |    |       |
+| SOUNDS/en/SYSTEM | celsius0.wav | degree celsius              |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | celsius1.wav | degrees celsius             |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | fahr0.wav    | degree fahrenheit           |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | fahr1.wav    | degrees fahrenheit          |        |    Y     |         |    |       |
 | SOUNDS/en/SYSTEM | percent0.wav | percent                     |0129.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | percent1.wav | percent                     |0130.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | mamph0.wav   | milliamp-hour               |0133.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | mamph1.wav   | milliamp-hours              |0134.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | watt0.wav    | watt                        |0135.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | watt1.wav    | watts                       |0136.wav|          |         |    |       |
-| SOUNDS/en/SYSTEM | mwatt0.wav   | milli-watt                  |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | mwatt1.wav   | milli-watts                 |        |          |         |    |       |
+| SOUNDS/en/SYSTEM | mwatt0.wav   | milli-watt                  |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | mwatt1.wav   | milli-watts                 |        |    Y     |         |    |       |
 | SOUNDS/en/SYSTEM | db0.wav      | D B                         |0137.wav|          |         |    | Recorded as "decibel"  |
 | SOUNDS/en/SYSTEM | db1.wav      | D B                         |0138.wav|          |         |    | Recorded as "decibles" |
 | SOUNDS/en/SYSTEM | rpm0.wav     | r p m                       |0149.wav|          |         |    |       |
@@ -206,12 +206,12 @@ needing to be renamed. If a different string is there, it means the file had to 
 | SOUNDS/en/SYSTEM | g1.wav       | g                           |0152.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | degree0.wav  | degree                      |0127.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | degree1.wav  | degrees                     |0128.wav|          |         |    |       |
-| SOUNDS/en/SYSTEM | rad0.wav     | radian                      |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | rad1.wav     | radians                     |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | ml0.wav      | milliliter                  |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | ml1.wav      | milliliters                 |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | founce0.wav  | fluid ounce                 |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | founce1.wav  | fluid ounces                |        |          |         |    |       |
+| SOUNDS/en/SYSTEM | rad0.wav     | radian                      |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | rad1.wav     | radians                     |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | ml0.wav      | milliliter                  |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | ml1.wav      | milliliters                 |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | founce0.wav  | fluid ounce                 |        |    Y     |         |    |       |
+| SOUNDS/en/SYSTEM | founce1.wav  | fluid ounces                |        |    Y     |         |    |       |
 | SOUNDS/en/SYSTEM | hour0.wav    | hour                        |0143.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | hour1.wav    | hours                       |0144.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | minute0.wav  | minute                      |0145.wav|          |         |    |       |
@@ -230,10 +230,10 @@ needing to be renamed. If a different string is there, it means the file had to 
 | SOUNDS/en/SYSTEM | 0176.wav     | point nine                  |0169.wav|          |         |    |       |
 | SOUNDS/en/SYSTEM | midtrim.wav  | trim center                 |   Y    |          |         |    |       |
 | SOUNDS/en/SYSTEM | maxtrim.wav  | maximum trim reached        |endtrim |          |         |    |       |
-| SOUNDS/en/SYSTEM | mintrim.wav  | minimum trim reached        |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | timovr1.wav  | timer 1 elapsed             |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | timovr2.wav  | timer 2 elapsed             |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | timovr3.wav  | timer 3 elapsed             |        |          |         |    |       |
+| SOUNDS/en/SYSTEM | mintrim.wav  | minimum trim reached        |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | timovr1.wav  | timer 1 elapsed             |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | timovr2.wav  | timer 2 elapsed             |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | timovr3.wav  | timer 3 elapsed             |        |     Y    |         |    |       |
 | SOUNDS/en/SYSTEM | lowbatt.wav  | transmitter battery low     |   Y    |          |         |    |       |
 | SOUNDS/en/SYSTEM | inactiv.wav  | inactivity alarm            |   Y    |          |         |    |       |
 | SOUNDS/en/SYSTEM | thralert.wav | throttle warning            |   Y    |          |         |    |       |
@@ -245,11 +245,11 @@ needing to be renamed. If a different string is there, it means the file had to 
 | SOUNDS/en/SYSTEM | swr_red.wav  | radio antenna defective     |   Y    |          |         |    |       |
 | SOUNDS/en/SYSTEM | telemko.wav  | telemetry lost              |   Y    |          |         |    |       |
 | SOUNDS/en/SYSTEM | telemok.wav  | telemetry recovered         |   Y    |          |         |    |       |
-| SOUNDS/en/SYSTEM | trainko.wav  | trainer signal lost         |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | trainok.wav  | trainer signal recovered    |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | sensorko.wav | sensor lost                 |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | servoko.wav  | servo overload              |        |          |         |    |       |
-| SOUNDS/en/SYSTEM | rxko.wav     | power overload              |        |          |         |    |       |
+| SOUNDS/en/SYSTEM | trainko.wav  | trainer signal lost         |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | trainok.wav  | trainer signal recovered    |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | sensorko.wav | sensor lost                 |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | servoko.wav  | servo overload              |        |     Y    |         |    |       |
+| SOUNDS/en/SYSTEM | rxko.wav     | power overload              |        |     Y    |         |    |       |
 | SOUNDS/en        | gearup.wav   | gear!, up!                  |   Y    |          |         |    |       |
 | SOUNDS/en        | geardn.wav   | gear!, down!                |   Y    |          |         |    |       |
 | SOUNDS/en        | flapup.wav   | flaps!, up!                 |   Y    |          |         |    |       |
@@ -261,14 +261,14 @@ needing to be renamed. If a different string is there, it means the file had to 
 | SOUNDS/en        | engoff.wav   | engine!, off!               |   Y    |          |         |    |       |
 | SOUNDS/en        | tohigh.wav   | too. high!                  |   Y    |          |         |    |       |
 | SOUNDS/en        | tolow.wav    | too. low!                   |   Y    |          |         |    |       |
-| SOUNDS/en        | lowbat.wav   | low. battery!               |        |          |         |    |       |
+| SOUNDS/en        | lowbat.wav   | low. battery!               |        |*MISSING* |         |    |       |
 | SOUNDS/en        | crowon.wav   | crow!, on!                  |   Y    |          |         |    |       |
 | SOUNDS/en        | crowof.wav   | crow!, off!                 |   Y    |          |         |    |       |
 | SOUNDS/en        | siglow.wav   | rf. signal!, low!           |   Y    |          |         |    |       |
 | SOUNDS/en        | sigcrt.wav   | rf. signal!, critical!      |   Y    |          |         |    |       |
 | SOUNDS/en        | spdmod.wav   | high. speed. mode!, active  |   Y    |          |         |    |       |
 | SOUNDS/en        | thmmod.wav   | thermal. mode!, on          |   Y    |          |         |    |       |
-| SOUNDS/en        | nrmmod.wav   | normal. mode!, on           |        |          |         |    |       |
+| SOUNDS/en        | nrmmod.wav   | normal. mode!, on           |        |*MISSING* |         |    |       |
 | SOUNDS/en        | lnding.wav   | landing. mode!, on          |   Y    |          |         |    |       |
 | SOUNDS/en        | acro.wav     | acro. mode!, on             |   Y    |          |         |    |       |
 | SOUNDS/en        | fm-1.wav     | flight. mode!, one          |   Y    |          |         |    |       |
