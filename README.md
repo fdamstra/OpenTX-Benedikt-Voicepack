@@ -45,6 +45,12 @@ if you find issues. Please be as specific as possible. I'm not a sound guy. I'm 
 like yourself, so be kind.
 
 ### Instructions
+#### Easy Method:
+Download the zip file: [Benedikt_Voicepack_latest.zip](https://raw.githubusercontent.com/fdamstra/OpenTX-Benedikt-Voicepack/master/Benedikt_Voicepack_latest.zip)
+Extract to your Taranis voice card into SOUNDS/en/ (Helpful hint: You may want to backup this directory first,
+as this will overwrite the files from the default english voicepack)
+
+#### For the latest and greatest:
 Copy the files from the ["Benedikt Taranis Voicepack" folder (`SOUNDS/en`)](https://github.com/fdamstra/OpenTX-Benedikt-Voicepack/tree/master/Benedikt%20Taranis%20Voicepack)
 onto your SD card, overwriting files existing files. (Helpful hint: If you've made changes, you may want to back up 
 first!).
