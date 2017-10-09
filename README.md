@@ -5,14 +5,27 @@ Tired of the computerized voice on your Taranis? Want something different? This 
 voicepack for you. From the moment you hear, "Hello, my friends, and welcome to OpenTX",
 you'll know you're in for something special. This is not yet another computer generated
 voicepack. This isn't another sultry seductive woman's voice. This is Benedikt. He's a 
-chief scientist or something. I dunno. I suspect he's important. Maybe? Really, I don't
-know him from Adam.
+chief scientist or something. I dunno. I suspect he's important in the scene. Maybe?
+
+I'm pretty sure he either owns or works at Micro Motor Warehouse. So if you like this, 
+maybe support him.
+
+## Instructions
+### Easy Method:
+Download the zip file: [Benedikt_Voicepack_latest.zip](https://raw.githubusercontent.com/fdamstra/OpenTX-Benedikt-Voicepack/master/Benedikt_Voicepack_latest.zip)
+Extract to your Taranis voice card into SOUNDS/en/ (Helpful hint: You may want to backup this directory first,
+as this will overwrite the files from the default english voicepack)
+
+### For the latest and greatest:
+Copy the files from the ["Benedikt Taranis Voicepack" folder (`SOUNDS/en`)](https://github.com/fdamstra/OpenTX-Benedikt-Voicepack/tree/master/Benedikt%20Taranis%20Voicepack)
+onto your SD card, overwriting files existing files. (Helpful hint: If you've made changes, you may want to back up 
+first!).
 
 ## Credits
 This is *not* my idea. I just got into RC stuff in late 2016. The original "v1.0.1" voicepack
-dates back to around October 15. When I got my Taranis and was looking for voicepacks,
-there were a few out there, and they were all kind of blah. This one stood out. And I knew 
-it was a keeper when I turned on my Taranis and my wife said, "You are so weird."
+dates back to around October 15 of that year. When I got my Taranis and was looking for 
+voicepacks, there were a few out there, and they were all kind of blah. This one stood out. 
+And I knew it was a keeper when I turned on my Taranis and my wife said, "You are so weird."
 
 So, here's some info on where it started.
 
@@ -28,9 +41,10 @@ And lastly, there is a "behind the scenes" YouTube video of Benedikt recording t
 files here: https://www.youtube.com/watch?v=o-aNwZORNYA
 
 ## The Problem
-This voicepack was originally made for OpenTX 1.x. They changed the filenames in OpenTX 2.1, 
-though it mostly worked. And then 2.2 came out with even more changes. It still mostly worked,
-but I thought it would be really nice if it was complete.
+This voicepack was originally made for OpenTX 1.x. The OpenTX developers changed the standard 
+filenames in OpenTX 2.1, though the voicepack still mostly worked. And then 2.2 came out with 
+even more changes. And while it still mostly worked, I thought it would be really nice if it
+was complete.
 
 Lazd gave me permission to upgrade his work, and Benedikt was kind enough to record the missing 
 sounds. Again, THANKS!
@@ -41,17 +55,6 @@ own X9D+ for testing.
 
 I need beta (alpha?) testers. Please feel free to 
 [create issues on github](https://github.com/fdamstra/OpenTX-Benedikt-Voicepack/issues)
-if you find issues. Please be as specific as possible. I'm not a sound guy. I'm just an RC hobbyist 
-like yourself, so be kind.
-
-### Instructions
-#### Easy Method:
-Download the zip file: [Benedikt_Voicepack_latest.zip](https://raw.githubusercontent.com/fdamstra/OpenTX-Benedikt-Voicepack/master/Benedikt_Voicepack_latest.zip)
-Extract to your Taranis voice card into SOUNDS/en/ (Helpful hint: You may want to backup this directory first,
-as this will overwrite the files from the default english voicepack)
-
-#### For the latest and greatest:
-Copy the files from the ["Benedikt Taranis Voicepack" folder (`SOUNDS/en`)](https://github.com/fdamstra/OpenTX-Benedikt-Voicepack/tree/master/Benedikt%20Taranis%20Voicepack)
-onto your SD card, overwriting files existing files. (Helpful hint: If you've made changes, you may want to back up 
-first!).
+if you find issues. Please be as specific as possible. I'm not a sound guy nor an OpenTX
+dev. I'm just an RC hobbyist like yourself, so be kind.
 
