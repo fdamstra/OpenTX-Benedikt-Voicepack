@@ -10,6 +10,9 @@ chief scientist or something. I dunno. I suspect he's important in the scene. Ma
 I'm pretty sure he either owns or works at Micro Motor Warehouse. So if you like this, 
 maybe support him.
 
+Here's a [YouTube Video](https://www.youtube.com/watch?v=s-ydzWfaL7k&t=1m14s) demonstrating
+some of the tracks.
+
 ## Instructions
 ### Easy Method:
 Download the zip file: [Benedikt_Voicepack_latest.zip](https://raw.githubusercontent.com/fdamstra/OpenTX-Benedikt-Voicepack/master/Benedikt_Voicepack_latest.zip)
